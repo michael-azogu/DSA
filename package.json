@@ -14,6 +14,10 @@
     "leetcode"
   ],
   "author": "Michael Azogu",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "ts-node": "^10.7.0",
+    "tsc": "^2.0.4"
+  }
 }
-
