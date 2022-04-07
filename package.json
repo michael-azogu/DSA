@@ -1,0 +1,19 @@
+{
+  "name": "data-structures-and-algorithms",
+  "version": "1.0.0",
+  "description": "Implementation, Definition and Application of Fundamental DS's & A's",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "dsa",
+    "algorithms",
+    "data",
+    "leetcode"
+  ],
+  "author": "Michael Azogu",
+  "license": "MIT"
+}
+
